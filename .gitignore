@@ -1,0 +1,5 @@
+*-checkpoint.ipynb
+.DS_Store
+*.csv
+venv_nlp
+*.jpg
