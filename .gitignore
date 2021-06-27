@@ -3,3 +3,7 @@
 *.csv
 venv_nlp
 *.jpg
+*.pickle
+*.png
+*.pos
+*.zip
